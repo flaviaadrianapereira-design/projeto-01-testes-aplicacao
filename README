@@ -1,0 +1,25 @@
+# Projeto 01 - Testes de uma Aplicação
+
+## Objetivo
+
+Realizar testes funcionais em uma aplicação de cadastro e login de usuários, identificando possíveis falhas e documentando os resultados.
+
+## Escopo
+
+- Cadastro de usuário
+- Validação dos campos
+- Login
+- Validação de credenciais
+- Testes positivos e negativos
+- Registro de bugs
+
+## Tecnologias e ferramentas
+
+- Visual Studio Code
+- Markdown
+- Git
+- GitHub
+
+## Status
+
+Em desenvolvimento
